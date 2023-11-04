@@ -1,3 +1,4 @@
 # Projeto-previsao-tempo
- Projeto previsão do tempo com DevClub.  <br> 
- Linkk da aplicação:  https://missao-previsao-tempo2.netlify.app/
+Projeto feito com as tecnologias HTML, CSS e JavaScript
+Projeto previsão do tempo com DevClub.  <br> 
+Link da aplicação:  https://missao-previsao-tempo2.netlify.app/
